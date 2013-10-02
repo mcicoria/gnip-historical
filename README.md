@@ -85,7 +85,7 @@ gnip.getJobs(function(err, result){
 
 ###rejectJob
 
-Accept a job and begin processing and takes a job object or any object that contains a `jobUrl` parameter.
+Reject a job. This takes a job object or any object that contains a `jobUrl` parameter.
 
 See Accept/Reject a Historical Job: http://support.gnip.com/customer/portal/articles/745587-historical-powertrack-api-methods
 
