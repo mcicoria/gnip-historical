@@ -1,0 +1,42 @@
+{
+  "author": {
+    "name": "Mark Cicoria",
+    "email": "mark.d.cicoria@gmail.com"
+  },
+  "name": "gnip-historical",
+  "description": "Gnip Historical API Wrapper",
+  "version": "0.0.1",
+  "keywords": [
+    "gnip",
+    "historical",
+    "twitter",
+    "util",
+    "utility",
+    "http",
+    "twitter"
+  ],
+  "main": "./lib/index.js",
+  "engines": {
+    "node": ">=0.8"
+  },
+  "dependencies": {
+    "request": "2.9.x",
+    "underscore": "1.3.x"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mcicoria/gnip-historical"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/demian85/gnip/blob/master/LICENSE"
+    }
+  ],
+  "readme": "",
+  "readmeFilename": "README.md",
+  "bugs": {
+    "url": "https://github.com/mcicoria/gnip-historical/issues"
+  }
+}
